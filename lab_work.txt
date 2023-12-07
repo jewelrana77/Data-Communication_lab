@@ -1,0 +1,14 @@
+Data Communication Lab Topics:
+
+Digital To Ditial..........
+1.Unipolar
+2.NRZ-L
+3.NRZ-I
+4.RZ
+5.Manchester
+6.Differential Manchester
+
+Analog To Analog............
+7.AM
+8.FM
+9.PM 
